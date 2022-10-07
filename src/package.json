@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/material": "latest",
+    "@mui/x-date-pickers": "latest",
+    "@mui/x-date-pickers-pro": "latest",
+    "@types/dayjs": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "date-fns": "latest",
+    "dayjs": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.17.6/docs/data/date-pickers/custom-components/PaperContentComponent.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  }
+}
